@@ -18,6 +18,7 @@ This project helped me reflect on my own habits and understand how small actions
 
 
 Task Overview
+
 🔹 Task 1 Digital Literacy Infographic
 
 For this task, I created a one page infographic explaining what digital literacy means, why it is important, and how students can stay safe online. This helped me understand how to present information in a simple and visual way.
@@ -39,6 +40,7 @@ In this task, I wrote two professional emails and created a checklist for social
 I created a case study on phishing and a prevention checklist. This task made me more aware of how easily people can fall into online scams and how important it is to stay careful.
 
  Important Links
+ 
 Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSdL6c68FLvXrL_AYK459SzyG03Kt1SAl90qqrgnz0kq-ia8iQ/viewform?usp=header
 
 GitHub Profile: https://github.com/ishan25bai11017
@@ -49,6 +51,7 @@ Kaggle Profile: https://www.kaggle.com/ishanjain25bai11017
 
 
  What I Learned
+ 
 Just using digital tools is not enough, understanding them matters more
 Online profiles should reflect real skills, not just appearance
 Communication style can change how people perceive you
