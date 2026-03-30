@@ -1,3 +1,9 @@
-I created profiles on GitHub, LinkedIn, and Kaggle as part of this task. I chose these platforms because they are commonly used by students and professionals in the tech field. GitHub is mainly used to store and share code, so I plan to use it to upload my projects and track my progress over time. LinkedIn is more focused on building a professional identity, so I will use it to connect with others, showcase my skills, and explore internship opportunities. Kaggle is useful for working on datasets and improving problem solving skills, especially in areas like data analysis and machine learning.
+I created profiles on GitHub, LinkedIn, and Kaggle as part of this task. I chose these platforms because they are commonly used by students and 
+professionals in the tech field. GitHub is mainly used to store and share code, so I plan to use it to upload my projects and track my progress 
+over time. LinkedIn is more focused on building a professional identity, so I will use it to connect with others, showcase my skills, and explore
+internship opportunities. Kaggle is useful for working on datasets and improving problem solving skills, especially in areas like data analysis 
+and machine learning.
 
-Over the next four years, I plan to actively maintain these profiles instead of just creating them once. On GitHub, I will regularly upload projects and improve existing ones. On LinkedIn, I will keep updating my achievements and experiences. On Kaggle, I aim to participate in competitions and practice working with real data. Overall, I want these platforms to reflect my actual growth and learning journey.
+Over the next four years, I plan to actively maintain these profiles instead of just creating them once. On GitHub, I will regularly upload 
+projects and improve existing ones. On LinkedIn, I will keep updating my achievements and experiences. On Kaggle, I aim to participate in 
+competitions and practice working with real data. Overall, I want these platforms to reflect my actual growth and learning journey.
